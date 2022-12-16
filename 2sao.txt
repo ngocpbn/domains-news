@@ -2,5 +2,15 @@ static.2sao.vn
 m.2sao.vn
 cms.2sao.vn
 www.2sao.vn
-ns1.vdconline.vn.
-ns2.vdconline.vn.
+2sao.vietnamnetjsc.vn
+2sao.vn
+log.vads.net.vn
+vads.net.vn
+embed.vietnamnettv.vn
+s0.2mdn.net
+v-cdn.vietnamnetjsc.vn
+occ-0-395-325.1.nflxso.net
+clip.vietnamnetjsc.vn
+i2-zasltbovusvmlzduxphmyfawabgsbp.init.cedexis-radar.net
+i2-eajudzjhyedlnjpmwaqolrevedauot.init.cedexis-radar.net
+
