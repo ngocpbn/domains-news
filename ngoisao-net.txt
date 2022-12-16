@@ -18,3 +18,10 @@ beauty.ngoisao.net
 phongthuy.ngoisao.net
 ngoisao-net.mail.protection.outlook.com
 ngoisao.vnexpress.net
+api3.vnexpress.net
+la2.vnecdn.net
+adp.vnecdn.net
+usi-saas.vnexpress.net
+d1.vnecdn.net
+iv.vnecdn.net
+i-ngoisao.vnecdn.net
