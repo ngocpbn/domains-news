@@ -8,3 +8,6 @@ vip.tiin.vn
 sunlight.tiin.vn
 www.tiin.vn
 tiin.vn
+ttol.vietnamnetjsc.vn
+v-cdn.vietnamnetjsc.vn
+embed.vietnamnettv.vn
