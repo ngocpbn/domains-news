@@ -1,0 +1,10 @@
+thumb.ybox.vn
+tiny-thumb.ybox.vn
+static.ybox.vn
+khoa-hoc.ybox.vn
+manage.ybox.vn
+api.ybox.vn
+tool.ybox.vn
+admin.ybox.vn
+www.ybox.vn
+academy.ybox.vn
