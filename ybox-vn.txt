@@ -1,3 +1,4 @@
+ybox.vn
 thumb.ybox.vn
 tiny-thumb.ybox.vn
 static.ybox.vn
@@ -8,3 +9,4 @@ tool.ybox.vn
 admin.ybox.vn
 www.ybox.vn
 academy.ybox.vn
+cdn-api.ybox.vn
