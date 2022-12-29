@@ -205,4 +205,18 @@ www.inside.vtc.vn
 intecom.vtc.vn
 checkinvietnam.vtc.vn
 family.vtc.vn
+tainangtre.vtc.vn
+media.hoc.vtc.vn
+dashboard.cloud.vtc.vn
+dns3.vtc.vn.
+dns1.vtc.vn.
+dns2.vtc.vn.
+10 smtp.mail.vtc.vn.
+hn.member.vtc.vn
+games.hn.vtc.vn
 vtc.vn
+hn.vtc.vn
+store.hn.vtc.vn
+gmau2.vtcgame.vn
+vtcguardservertest.tankr.vtc.vn
+mail.vtcmobile.vn
