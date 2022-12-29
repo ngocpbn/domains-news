@@ -3,3 +3,4 @@ str.vov.gov.vn
 photo-cms-vovworld.zadn.vn
 admin.vov.gov.vn
 apiapp2021.vov.gov.vn
+media.vov.vn
